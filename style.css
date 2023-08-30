@@ -1,0 +1,92 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 45px;
+}
+h2{
+    font-size: 35px;
+    font-weight: 900;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.first-para{
+    margin-top: 100px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 8.3%;
+    margin-top: 3%;
+}
+.name-highlight{
+    color: rgba(238, 48, 127);
+    font-size: 50px;
+    font-weight: 900;
+}
+.link-button{
+    text-decoration: none;
+    background-color: rgb(230, 43, 121);
+    padding: 10px 20px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+div img{
+    width: 90%;
+}
+.half-width img {
+    width: 75%;
+}    
+.top-banner{
+    background-image: url(web-media/header-bg.png);
+    background-repeat: no-repeat;
+    background-size: 1300px 720px;
+}
+.bio-text{
+    margin-top: 11%;
+}
+.latest{
+    text-align: center;
+    margin-top: 180px;
+    font-weight: bolder;
+}
+.latest-work {
+    background-image: url(images/latest-work-bg.png);
+    background-size: 1366px 784px;
+}
+.work-width {
+    width: 24%;
+    margin-top: 80px;
+    margin-left: 7%;
+    float: left;
+}
+.contact{
+    background-image: url(web-media/footer-bg.png);
+    background-size: 1366px 784px;
+    background-repeat: no-repeat;
+    position: relative;
+    text-align: center;
+}
+.client-name{
+    font-size: 20px;
+    font-weight: bold;
+}
+.role{
+    font-size: 14px;
+    color: dimgray;
+}
+.review{
+    font-size: 18px;
+    color: rgb(24, 24, 24);
+}
+.box{
+    color: rgb(46, 14, 20);
+}
+footer p{
+    text-align: center;
+    font-size: 12px;
+}
